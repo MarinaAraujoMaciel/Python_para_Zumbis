@@ -2,6 +2,7 @@
 Exercicios resolvidos do curso Python Para Zumbis
 > Curso Python para Zumbis | Professor Fernando Masanori - @fmasanori 
 ```
-bit.ly/PPZPython
+Youtube - bit.ly/PPZPython
+Listas de Exercicios - bit.ly/PPZPythonExercicios
 
 ```
